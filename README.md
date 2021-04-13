@@ -4,7 +4,7 @@
 
 - Clone o repositório
 ```
-git clone https://github.com/BrunoBecoski/NLW-4-MoveIt-ReactJS.git
+git clone https://github.com/BrunoBecoski/Ignite-ReactJS-01-github-explorer.git
 ```
 - Instale as depêndencias
 ```
