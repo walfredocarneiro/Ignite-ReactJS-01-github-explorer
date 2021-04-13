@@ -10,10 +10,6 @@ git clone https://github.com/BrunoBecoski/Ignite-ReactJS-01-github-explorer.git
 ```
 yarn install
 ```
-- Compile os arquivos 
-```
-yarn build
-```
 - Inicie o servidor
 ``` 
 yarn dev
