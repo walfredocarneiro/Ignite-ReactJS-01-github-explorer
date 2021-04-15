@@ -1,4 +1,20 @@
-# Ignite-ReactJS
+# Github Explorer
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>
+</p> 
+
+## ⚙ Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [React](https://www.reactjs.org)
+- [Babel](https://babeljs.io)
+- [Webpack](https://webpack.js.org)
+- [Sass](https://sass-lang.com)
+- [TypeScript](https://www.typescriptlang.org)
+
 
 ## 🚀 Como executar
 
