@@ -1,6 +1,7 @@
 # Github Explorer
 
 <p align="center">
+  <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>
 </p> 
@@ -8,6 +9,10 @@
 <p align="center">
   <img alt="Repository List" src=".github/repositoryList.png" />
 </p>
+
+## 📖 Sobre
+
+Projeto desenvolvido no Ignite Trilha ReactJS Chapter I.
 
 ## ⚙ Tecnologias
 
