@@ -5,6 +5,10 @@
   <a href="#-como-executar">Como executar</a>
 </p> 
 
+<p align="center">
+  <img alt="Repository List" src=".github/repositoryList.png" />
+</p>
+
 ## ⚙ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
