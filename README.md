@@ -3,6 +3,7 @@
 <p align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>
 </p> 
 
@@ -10,9 +11,13 @@
   <img alt="Repository List" src=".github/repositoryList.png" />
 </p>
 
+
+
 ## 📖 Sobre
 
 Projeto desenvolvido no Ignite Trilha ReactJS Chapter I.
+
+</br>
 
 ## ⚙ Tecnologias
 
@@ -24,6 +29,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Sass](https://sass-lang.com)
 - [TypeScript](https://www.typescriptlang.org)
 
+</br>
+
+## 💻 Projeto
+
+O github explorer é um site que mostra uma lista de repositórios da Rocketseat no github.
+
+</br>
 
 ## 🚀 Como executar
 
