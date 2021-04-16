@@ -11,11 +11,12 @@
   <img alt="Repository List" src=".github/repositoryList.png" />
 </p>
 
+</br>
 
 
 ## 📖 Sobre
 
-Projeto desenvolvido no Ignite Trilha ReactJS Chapter I.
+Projeto desenvolvido durante o Ignite da Rocketseat | Trilha ReactJS Chapter I.
 
 </br>
 
@@ -33,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O github explorer é um site que mostra uma lista de repositórios da Rocketseat no github.
+O Github Explorer é um app que mostra uma lista de repositórios da Rocketseat no github.
 
 </br>
 
