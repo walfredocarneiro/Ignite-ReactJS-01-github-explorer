@@ -42,7 +42,7 @@ O Github Explorer é um app que mostra uma lista de repositórios da Rocketseat 
 
 - Clone o repositório
 ```
-git clone https://github.com/BrunoBecoski/Ignite-ReactJS-01-github-explorer.git
+git clone https://github.com/walfredocarneiro/Ignite-ReactJS-01-github-explorer.git
 ```
 - Instale as dependências
 ```
